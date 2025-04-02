@@ -10,7 +10,7 @@
     
     <!-- START STEP 2.4 ADD HEADER.PHP CODE -->
     <!DOCTYPE html>
-    <html>
+ 
         <!-- START STEP 2.15 ADD HTML LANGUAGE ATTRIBUTES -->
 
         <html <?php language_attributes(); ?>>
@@ -34,7 +34,7 @@
        
     </head>
 
-    <body>
+  
 <!-- START STEP 2.17 CUSTOMIZE BODY CLASS & OPEN -->
 
 <body <?php body_class(); ?>>

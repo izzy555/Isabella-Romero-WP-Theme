@@ -31,7 +31,7 @@
     <?php get_sidebar(); ?>
 
     <!-- END STEP 2.22 ADD SIDEBAR -->
-</div>
+
 
   <!-- START WORDPRESS LOOP -->
 
@@ -50,6 +50,8 @@
 
   <!-- END WORDPRESS LOOP -->    
   </main>
+
+  </div>
 
    <!-- END STEP 2.8 ADD H1 AND WORDPRESS LOOP -->
   <!-- closing flex-container will go here -->
